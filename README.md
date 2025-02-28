@@ -2,7 +2,7 @@
 
 # Smart Spawner
 
-### Ultimate GUI Spawner Plugin for Minecraft Servers
+### Ultimate GUI Spawner Plugin for Minecraft Servers & hide spawner when moving 1 chunk away(beta)
 
 [![Version](https://img.shields.io/github/v/release/ptthanh02/Smart-Spawner-Plugin?color=4B32C3&logo=github&style=for-the-badge)](https://github.com/ptthanh02/Smart-Spawner-Plugin/releases/latest)
 [![Downloads](https://img.shields.io/modrinth/dt/smart-spawner-plugin?style=for-the-badge&logo=modrinth&logoColor=white&label=Downloads&color=00AF5C)](https://modrinth.com/plugin/smart-spawner-plugin)
